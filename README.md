@@ -50,4 +50,9 @@ Ghi chú
 
 Demo credentials: student / Secret123!.
 
+
 Ảnh chạy test lưu tại thư mục screenshots/.
+Live demo (GitHub Pages):
+https://tumainguyen.github.io/n23dcpt091-lab03-login/login.html
+
+Tác giả: NGUYEN DO TU MAI – MSSV: N23DCPT091
